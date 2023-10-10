@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm TuRou</h1>
 <h3 align="center">Full-Stack Developer in Southwest University, China</h3>
 
+## 👋 Hi 
+
 - 🔭 I’m currently working on [nogu](https://github.com/TrueRou/nogu)
 
 - 👯 I’m looking to collaborate on [bancho.py](https://github.com/ppy-sb/bancho.py)
@@ -16,7 +18,7 @@
 
 
 ![java](https://img.shields.io/badge/-java-red?style=for-the-badge)
-![c#](https://img.shields.io/badge/-c%23-inactive?style=for-the-badge)
+![c#](https://img.shields.io/badge/-c%23-red?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/-javascript-red?style=for-the-badge)
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
@@ -28,20 +30,12 @@
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 ![fastapi](https://img.shields.io/badge/-fastapi-blue?style=for-the-badge)
 
-
-![vscode](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge)
-
-![pycharm](https://img.shields.io/badge/-pycharm-brightgreen?style=for-the-badge)
-![vsstudio](https://img.shields.io/badge/-visualstudio-brightgreen?style=for-the-badge)
-![navicat](https://img.shields.io/badge/-navicat-brightgreen?style=for-the-badge)
-![dnspy](https://img.shields.io/badge/-dnspy-brightgreen?style=for-the-badge)
-
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![mongodb](https://img.shields.io/badge/-mongodb-blueviolet?style=for-the-badge)
 ![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=truerou&show_icons=true&locale=en&layout=compact" alt="truerou" /></p>
+## 🏆 Profile
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=truerou&show_icons=true&locale=en" alt="truerou" /></p>
+![info](https://github-readme-stats.vercel.app/api?username=truerou&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truerou&" alt="truerou" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truerou&layout=compact&card_width=445&langs_count=10)
