@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories of TuRou](https://github.com/TrueRou?tab=repositories)
 
-- 📝 I regularly write articles on [MCBBS Development](https://www.mcbbs.net/home.php?mod=space&uid=594622&do=thread&view=me&from=space)
+- 📝 I regularly write articles on [MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=594622&do=thread&view=me&from=space)
 
 ## ⛏️ Stacks
 ![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
@@ -24,11 +24,23 @@
 ![html](https://img.shields.io/badge/-html-red?style=for-the-badge)
 ![css](https://img.shields.io/badge/-css-red?style=for-the-badge)
 ![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
+![wpf](https://img.shields.io/badge/-wpf-red?style=for-the-badge)
+![c](https://img.shields.io/badge/-c-inactive?style=for-the-badge)
+![cpp](https://img.shields.io/badge/-cpp-inactive?style=for-the-badge)
+![rust](https://img.shields.io/badge/-rust-inactive?style=for-the-badge)
+![typescript](https://img.shields.io/badge/-typescript-inactive?style=for-the-badge)
 
 
 ![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
 ![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
 ![fastapi](https://img.shields.io/badge/-fastapi-blue?style=for-the-badge)
+
+
+![minecraft](https://img.shields.io/badge/-minecraft-brown?style=for-the-badge)
+![forge](https://img.shields.io/badge/-forge-grey?style=for-the-badge)
+![fabric](https://img.shields.io/badge/-fabric-blue?style=for-the-badge)
+![mixin](https://img.shields.io/badge/-mixin-yellow?style=for-the-badge)
+![opengl](https://img.shields.io/badge/-opengl-inactive?style=for-the-badge)
 
 ![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
 ![mongodb](https://img.shields.io/badge/-mongodb-blueviolet?style=for-the-badge)
