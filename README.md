@@ -5,18 +5,15 @@
 
 - 🔭 I’m currently working on [nogu](https://github.com/TrueRou/nogu)
 
-- 👯 I’m looking to collaborate on [bancho.py](https://github.com/ppy-sb/bancho.py)
+- 👯 I’m looking to collaborate on [maimai.py](https://github.com/TrueRou/maimai.py)
 
-- 👨‍💻 All of my projects are available at [Repositories of TuRou](https://github.com/TrueRou?tab=repositories)
+- 👨‍💻 I'm an active backend developer at [ppy.sb](https://github.com/ppy-sb)
 
 - 📝 I regularly write articles on [my blog](https://turou.fun/)
 
 ## ⛏️ Stacks
-![windows](https://img.shields.io/badge/-windows-orange?style=for-the-badge)
-![centos](https://img.shields.io/badge/-centos-orange?style=for-the-badge)
-![debian](https://img.shields.io/badge/-debian-orange?style=for-the-badge)
 
-
+![lang](https://img.shields.io/badge/-language:-blue?style=for-the-badge)
 ![java](https://img.shields.io/badge/-java-red?style=for-the-badge)
 ![c#](https://img.shields.io/badge/-c%23-red?style=for-the-badge)
 ![python](https://img.shields.io/badge/-python-red?style=for-the-badge)
@@ -26,31 +23,26 @@
 ![sql](https://img.shields.io/badge/-sql-red?style=for-the-badge)
 ![wpf](https://img.shields.io/badge/-wpf-red?style=for-the-badge)
 ![c](https://img.shields.io/badge/-c-red?style=for-the-badge)
-![cpp](https://img.shields.io/badge/-cpp-inactive?style=for-the-badge)
-![rust](https://img.shields.io/badge/-rust-inactive?style=for-the-badge)
-![typescript](https://img.shields.io/badge/-typescript-inactive?style=for-the-badge)
 
+![framework](https://img.shields.io/badge/-ramework:-blue?style=for-the-badge)
+![vue.js](https://img.shields.io/badge/-vue.js-blueviolet?style=for-the-badge)
+![docker](https://img.shields.io/badge/-docker-blueviolet?style=for-the-badge)
+![fastapi](https://img.shields.io/badge/-fastapi-blueviolet?style=for-the-badge)
+![sqlalchemy](https://img.shields.io/badge/-sqlalchemy-blueviolet?style=for-the-badge)
+![mrtk](https://img.shields.io/badge/-mrtk-blueviolet?style=for-the-badge)
 
-![vue.js](https://img.shields.io/badge/-vue.js-blue?style=for-the-badge)
-![node.js](https://img.shields.io/badge/-node.js-blue?style=for-the-badge)
-![unity](https://img.shields.io/badge/-unity-blue?style=for-the-badge)
-![springboot](https://img.shields.io/badge/-springboot-inactive?style=for-the-badge)
-
-
+![field](https://img.shields.io/badge/-field:-blue?style=for-the-badge)
 ![minecraft](https://img.shields.io/badge/-minecraft-brown?style=for-the-badge)
-![forge](https://img.shields.io/badge/-forge-grey?style=for-the-badge)
-![fabric](https://img.shields.io/badge/-fabric-blue?style=for-the-badge)
-![spigot](https://img.shields.io/badge/-spigot-green?style=for-the-badge)
-![mixin](https://img.shields.io/badge/-mixin-yellow?style=for-the-badge)
-![opengl](https://img.shields.io/badge/-opengl-inactive?style=for-the-badge)
+![osu](https://img.shields.io/badge/-osu-brown?style=for-the-badge)
+![maimai](https://img.shields.io/badge/-maimai-brown?style=for-the-badge)
+![unity](https://img.shields.io/badge/-unity-brown?style=for-the-badge)
+![xr](https://img.shields.io/badge/-xr-brown?style=for-the-badge)
 
-
-![mysql](https://img.shields.io/badge/-mysql-blueviolet?style=for-the-badge)
-![mongodb](https://img.shields.io/badge/-mongodb-blueviolet?style=for-the-badge)
-![redis](https://img.shields.io/badge/-redis-blueviolet?style=for-the-badge)
+![tbd](https://img.shields.io/badge/-tbd:-blue?style=for-the-badge)
+![golang](https://img.shields.io/badge/-golang-gray?style=for-the-badge)
+![react](https://img.shields.io/badge/-react-gray?style=for-the-badge)
+![web3](https://img.shields.io/badge/-web3-gray?style=for-the-badge)
 
 ## 🏆 Profile
-
-![info](https://github-readme-stats.vercel.app/api?username=truerou&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truerou&layout=compact&card_width=445&langs_count=10)
