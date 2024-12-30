@@ -24,7 +24,7 @@
 ![wpf](https://img.shields.io/badge/-wpf-red?style=for-the-badge)
 ![c](https://img.shields.io/badge/-c-red?style=for-the-badge)
 
-![framework](https://img.shields.io/badge/-ramework:-blue?style=for-the-badge)
+![framework](https://img.shields.io/badge/-framework:-blue?style=for-the-badge)
 ![vue.js](https://img.shields.io/badge/-vue.js-blueviolet?style=for-the-badge)
 ![docker](https://img.shields.io/badge/-docker-blueviolet?style=for-the-badge)
 ![fastapi](https://img.shields.io/badge/-fastapi-blueviolet?style=for-the-badge)
