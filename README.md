@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm TuRou</h1>
-<h3 align="center">Full-Stack Developer in Southwest University, China</h3>
 
 ## 👋 Hi 
 
-- 🔭 I’m currently working on [nogu](https://github.com/TrueRou/nogu)
+- 🔭 I’m currently working on [UsagiPass](https://github.com/TrueRou/UsagiPass)
 
 - 👯 I’m looking to collaborate on [maimai.py](https://github.com/TrueRou/maimai.py)
 
@@ -41,7 +40,6 @@
 ![tbd](https://img.shields.io/badge/-tbd:-blue?style=for-the-badge)
 ![golang](https://img.shields.io/badge/-golang-gray?style=for-the-badge)
 ![react](https://img.shields.io/badge/-react-gray?style=for-the-badge)
-![web3](https://img.shields.io/badge/-web3-gray?style=for-the-badge)
 
 ## 🏆 Profile
 
