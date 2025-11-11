@@ -49,7 +49,7 @@
 
 ## 🏆 Profile
 
-| ![Github stats](https://github-readme-stats.vercel.app/api?username=TrueRou&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrueRou&theme=tokyonight) |
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=TrueRou&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=TrueRou&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=truerou&layout=compact&card_width=480&langs_count=10&theme=tokyonight) | ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrueRou&layout=compact&theme=tokyonight&langs_count=10) |
 
